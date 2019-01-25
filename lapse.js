@@ -2,3 +2,5 @@
 
 console.log('arrived');
 var date;
+
+date = "swim";
