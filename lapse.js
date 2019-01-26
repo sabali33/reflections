@@ -7,3 +7,4 @@ var date;
 
 date = ["swim", "dance"];
 
+var strokes = [ 'freestyle', 'butterfly', 'backstroke'];
