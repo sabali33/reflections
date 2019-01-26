@@ -3,4 +3,7 @@
 console.log('arrived');
 
 var date;
-date = "dance";
+
+
+date = ["swim", "dance"];
+
