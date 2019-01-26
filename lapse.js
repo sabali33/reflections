@@ -5,6 +5,6 @@ console.log('arrived');
 var date;
 
 
-date = ["swim", "dance"];
+date = ["swim", "dance", "run"];
 
 var strokes = [ 'freestyle', 'butterfly', 'backstroke'];
